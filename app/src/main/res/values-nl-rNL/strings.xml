@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- general -->
+    <string name="app_name">Thuisbezorgd</string>
+    <string name="empty_field">%1$s mag niet leeg zijn!</string>
+
+    <!-- activity_create_user -->
+    <string name="iv_logo">Thuisbezorgd Logo</string>
+    <string name="settings_icon_image">opties icon afbeelding</string>
+    <string name="etName_hint">naam</string>
+    <string name="name_field_error_message">Deze naam is niet geldig!</string>
+    <string name="etGmail_hint">Gmail</string>
+    <string name="gmail_field_error_message">Deze Gmail is niet geldig!</string>
+    <string name="etLocation_hint">Locatie</string>
+    <string name="location_field_error_message">Deze locatie is niet geldig!</string>
+    <string name="etIsAdmin_PlaceHolder_hint">Is Administrator?</string>
+    <string name="btnDone_text">Klaar</string>
+    <string name="btnDelete_text">Verwijderen</string>
+    <string name="invalidForm">Vul het formulier alstublieft correct in</string>
+
+    <!-- dialog_list_buttons -->
+    <string name="modify">Wijzigen</string>
+    <string name="delete">Verwijderen</string>
+    <string name="loading">Laden...</string>
+    <string name="timer">Timer</string>
+    <string name="projectid_tv">Project ID</string>
+    <string name="edit_btn">Aanpassen</string>
+    <string name="addManually">Uren Toevoegen</string>
+    <string name="projectname_tv">Project Naam</string>
+    <string name="logged_out">Uitgelogd</string>
+    <string name="logged_in">Ingelogd als</string>
+    <string name="start">Begin</string>
+    <string name="stop">Stop</string>
+    <string name="btnNotifications">Notificaties</string>
+    <string name="btnCSV">CSV</string>
+</resources>

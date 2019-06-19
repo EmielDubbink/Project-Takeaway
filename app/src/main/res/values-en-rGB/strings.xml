@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- general -->
+    <string name="app_name">TakeAway</string>
+    <string name="empty_field">%1$s can\'t be empty!</string>
+
+    <!-- activity_create_user -->
+    <string name="iv_logo">Take Away Logo</string>
+    <string name="settings_icon_image">settings icon image</string>
+    <string name="etName_hint">Name</string>
+    <string name="name_field_error_message">This name isn\'t valid!</string>
+    <string name="etGmail_hint">Gmail</string>
+    <string name="gmail_field_error_message">This Gmail isn\'t valid!</string>
+    <string name="etLocation_hint">Location</string>
+    <string name="location_field_error_message">This location isn\'t valid!</string>
+    <string name="etIsAdmin_PlaceHolder_hint">Is Administrator?</string>
+    <string name="btnDone_text" >Done</string>
+    <string name="btnDelete_text" >Delete</string>
+    <string name="invalidForm" >Please fill in the form correctly</string>
+
+    <!-- dialog_list_buttons -->
+    <string name="modify">Modify</string>
+    <string name="delete">Delete</string>
+    <string name="timer">Timer</string>
+    <string name="loading">Loading…</string>
+    <string name="projectid_tv">project ID</string>
+    <string name="edit_btn">Edit</string>
+    <string name="addManually">Add Hours</string>
+    <string name="projectname_tv">Project Name</string>
+    <string name="logged_out">Logged Out</string>
+    <string name="logged_in">Logged in as</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="btnNotifications">Notifications</string>
+    <string name="btnCSV">CSV</string>
+</resources>

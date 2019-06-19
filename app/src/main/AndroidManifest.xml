@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.saxionact.ehi2vsd3.takeaway">
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.AddingHoursActivity" />
+        <activity android:name=".activities.CreateUserActivity" />
+        <activity android:name=".activities.CSVActivity" />
+        <activity android:name=".activities.HoursOverviewActivity" />
+        <activity android:name=".activities.ProjectOverviewActivity" />
+        <activity android:name=".activities.SettingsActivity" />
+        <activity android:name=".activities.AddProjectActivity" />
+        <activity android:name=".activities.TimerActivity" />
+        <activity android:name=".activities.NotificationActivity" />
+        <activity android:name=".activities.CreateNotificationActivity"/>
+        <activity android:name=".activities.AuthenticationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".notification.NotificationReceiver"
+            android:exported="false"/>
+
+        <activity
+            android:name=".activities.TabbedAdministratorActivity"
+            android:label="@string/title_activity_tabbed_administrator"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.ProjectActivity"
+            android:excludeFromRecents="true"
+            android:theme="@style/Base.Theme.AppCompat.Dialog" />
+        <activity android:name=".activities.EditUserActivity" />
+        <activity android:name=".activities.EditHoursActivity"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "189635933984",
+    "firebase_url": "https://takeaway-20671.firebaseio.com",
+    "project_id": "takeaway-20671",
+    "storage_bucket": "takeaway-20671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189635933984:android:31258c6624b03107",
+        "android_client_info": {
+          "package_name": "com.saxionact.ehi2vsd3.takeaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189635933984-hdbir9iuo0kgjdo0vv10h5o3kutu0duq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saxionact.ehi2vsd3.takeaway",
+            "certificate_hash": "5dc11acffb6e3a1b80ccbed9baca3c3a6538c676"
+          }
+        },
+        {
+          "client_id": "189635933984-9oaov8ibd0uh5c0v796q858tdlmpnim9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saxionact.ehi2vsd3.takeaway",
+            "certificate_hash": "55218bf7010a0e390adf20274d9ed967f3b6e051"
+          }
+        },
+        {
+          "client_id": "189635933984-rgfntadqscr08f71c1s35mj620pgv2k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saxionact.ehi2vsd3.takeaway",
+            "certificate_hash": "0b2117851657fad901e0f6959b276d1f154db60e"
+          }
+        },
+        {
+          "client_id": "189635933984-g7tq9bkeo65hs7onuvuch93onqtkpnrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saxionact.ehi2vsd3.takeaway",
+            "certificate_hash": "aba8fe15f6c091c4cf72c61bc53ef2a1c4e6dcef"
+          }
+        },
+        {
+          "client_id": "189635933984-5m8ajj7qmcenkus2i7b0an643fjthdsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO8qTGl6GANsO0NeZjtFoNF26qN8DPBPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189635933984-5m8ajj7qmcenkus2i7b0an643fjthdsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
